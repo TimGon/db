@@ -1,66 +1,68 @@
 {
-    "manufact": [
+    "category-product": [
         {
             "id": 1,
-            "company-name": "OOO Magint"
+            "product-name": "Фрукты"
         },
         {
             "id": 2,
-            "company-name": "OOO Guliever"
+            "product-name": "Сухофрукты"
         },
         {
             "id": 3,
-            "company-name": "OOO RosAtom"
+            "product-name": "Овощи"
         },
         {
             "id": 4,
-            "company-name": "OOO Five"
+            "product-name": "Сладости"
         },
         {
             "id": 5,
-            "company-name": "OOO OlegProduct"
-        },
-        {
-            "id": 6,
-            "company-name": "OOO Board"
+            "product-name": "Соки"
         }
     ],
     "products": [
         {
             "id": 1,
-            "name-product": "tomato",
-            "descr": " tomato from Abhazia",
-            "company-name": "OOO Magint"
+            "name-product": "Томаты",
+            "descr": " Вкуснейшие, мясистые, сочные, сладкие, плоскоокруглые, крупные, малиново- розовые",
+            "name-client": "Ilya",
+            "phone": "+7 (955) 230-80-55"
         },
         {
             "id": 2,
-            "name-product": "apple",
-            "descr": " Apple from Tashkent, very cool",
-            "company-name": "OOO Guliever"
+            "name-product": "Яблоки",
+            "descr": " Свежие, спелые и необычайно ароматные",
+            "name-client": "Timur",
+            "phone": "+7 (955) 230-80-55"
         },
         {
             "id": 3,
-            "name-product": "cookie",
-            "descr": " cookie very very cool",
-            "company-name": "OOO Magint"
+            "name-product": "Печенья",
+            "descr": " Маленькое кондитерское изделие, сделанное из теста и очень вкусное",
+            "name-client": "Leonardo",
+            "phone": "+7 (955) 230-80-55"
         },
         {
             "id": 4,
-            "name-product": "apple juice",
-            "descr": " Apple juice from Moscow, very cool",
-            "company-name": "OOO OlegProduct"
+            "name-product": "Яблочный сок",
+            "descr": " Сок, выжатый из яблок. Сладкий вкус обусловлен содержанием в яблоках натурального сахара. Сделано в москве",            
+            "name-client": "Leonid",
+            "phone": "+7 (955) 230-80-55"
         },
         {
             "id": 5,
-            "name-product": "pineapple",
-            "descr": "pineapple from Californya",
-            "company-name": "OOO Magint"
+            "name-product": "Ананас",
+            "descr": "Экзотический фрукт имеет кисло-сладкий вкус",
+            "name-client": "Oleg",
+            "phone": "+7 (955) 230-80-55"
         },
         {
             "id": 6,
-            "name-product": "large tomatos",
-            "descr": " large Tomatos from ulyanovsk",
-            "company-name": "OOO Board"
+            "name-product": "Сухофрукты",
+            "descr": " Вкусные твердые и мягкие сделано в Ульяновске",
+            "name-client": "Ruslan",
+            "phone": "+7 (955) 230-80-55"
         }
     ],
     "users": [

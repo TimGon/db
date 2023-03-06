@@ -1,5 +1,5 @@
 {
-    "category-product": [
+    "category": [
         {
             "id": 1,
             "product-name": "Фрукты"
@@ -24,44 +24,44 @@
     "products": [
         {
             "id": 1,
-            "name-product": "Томаты",
+            "product": "Томаты",
             "descr": " Вкуснейшие, мясистые, сочные, сладкие, плоскоокруглые, крупные, малиново- розовые",
-            "name-client": "Ilya",
+            "client": "Ilya",
             "phone": "+7 (955) 230-80-55"
         },
         {
             "id": 2,
-            "name-product": "Яблоки",
+            "product": "Яблоки",
             "descr": " Свежие, спелые и необычайно ароматные",
-            "name-client": "Timur",
+            "client": "Timur",
             "phone": "+7 (955) 230-80-55"
         },
         {
             "id": 3,
-            "name-product": "Печенья",
+            "product": "Печенья",
             "descr": " Маленькое кондитерское изделие, сделанное из теста и очень вкусное",
-            "name-client": "Leonardo",
+            "client": "Leonardo",
             "phone": "+7 (955) 230-80-55"
         },
         {
             "id": 4,
-            "name-product": "Яблочный сок",
+            "product": "Яблочный сок",
             "descr": " Сок, выжатый из яблок. Сладкий вкус обусловлен содержанием в яблоках натурального сахара. Сделано в москве",            
-            "name-client": "Leonid",
+            "client": "Leonid",
             "phone": "+7 (955) 230-80-55"
         },
         {
             "id": 5,
-            "name-product": "Ананас",
+            "product": "Ананас",
             "descr": "Экзотический фрукт имеет кисло-сладкий вкус",
-            "name-client": "Oleg",
+            "client": "Oleg",
             "phone": "+7 (955) 230-80-55"
         },
         {
             "id": 6,
-            "name-product": "Сухофрукты",
+            "product": "Сухофрукты",
             "descr": " Вкусные твердые и мягкие сделано в Ульяновске",
-            "name-client": "Ruslan",
+            "client": "Ruslan",
             "phone": "+7 (955) 230-80-55"
         }
     ],

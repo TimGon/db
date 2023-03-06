@@ -2,23 +2,23 @@
     "category": [
         {
             "id": 1,
-            "product-name": "Фрукты"
+            "product": "Фрукты"
         },
         {
             "id": 2,
-            "product-name": "Сухофрукты"
+            "product": "Сухофрукты"
         },
         {
             "id": 3,
-            "product-name": "Овощи"
+            "product": "Овощи"
         },
         {
             "id": 4,
-            "product-name": "Сладости"
+            "product": "Сладости"
         },
         {
             "id": 5,
-            "product-name": "Соки"
+            "product": "Соки"
         }
     ],
     "products": [

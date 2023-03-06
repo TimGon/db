@@ -63,21 +63,6 @@
             "company-name": "OOO Board"
         }
     ],
-    "users": [
-        {
-            "id": 1,
-            "login": "Tim",
-            "pass": "gfgfgf",
-            "email": "fwergf@mail.ru",
-            "phone": "+7 (905) 300-20-05"
-        },
-        {
-            "id": 2,
-            "login": "Grog",
-            "pass": "jhgdfsd",
-            "email": "jtyref@mail.ru",
-            "phone": "+7 (955) 230-80-55"
-        }
-    ]
+
 
 }
